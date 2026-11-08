@@ -2,7 +2,7 @@
 
 A React task manager for organizing daily tasks with categories, priorities, due dates, and quick search.
 
-![DoListix preview](https://raw.githubusercontent.com/SaharMahmoudDev/SaharMahmoudDev.github.io/main/images/dolistix-light.jpg)
+![DoListix preview](https://raw.githubusercontent.com/SaharMahmoudDev/SaharMahmoudDev.github.io/main/images/dolistix-devices.webp)
 
 **Live demo:** https://dolistix-app.pages.dev/
 
